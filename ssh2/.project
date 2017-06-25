@@ -12,6 +12,8 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
+      
+      hello world!!! 认识人
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>

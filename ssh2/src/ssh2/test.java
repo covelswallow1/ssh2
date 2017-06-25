@@ -2,11 +2,14 @@ package ssh2;
 
 public class test {
 	
-    //Github ÎÄµµËµÃ÷
+    //Github 脦脛碌碌脣碌脙梅
   
    //this is the user1's change.s
      
-     //文字编码识别
+     //鏂囧瓧缂栫爜璇嗗埆
 	
-	//liajimyecl  ���ı�������
+	//liajimyecl  中文编码问题
+  
+  
+  // 来自github 的中文编码问题
 }

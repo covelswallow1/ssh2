@@ -12,4 +12,7 @@ public class test {
   
   
   // 来自github 的中文编码问题
+	
+	sdfsdfsfsd
+	//真傻闪电
 }

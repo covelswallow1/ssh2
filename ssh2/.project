@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>ssh2</name>
 	<comment></comment>
@@ -13,7 +13,7 @@
 	</buildSpec>
 	<natures>
       
-      hello world!!! 认识人
+      hello world!!! 认识人sdfdsfdfgdfgd
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>

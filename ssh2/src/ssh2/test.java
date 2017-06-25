@@ -4,5 +4,7 @@ public class test {
 	
     //Github ÎÄµµËµÃ÷
   
-   this is the user1's change.
+   this is the user1's change.s
+     
+     //文字编码识别
 }
